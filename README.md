@@ -4,7 +4,8 @@ Q: What are Graphs? :
 A: a set of values that are related in an pair-wise fashion
 
 Q: What are they useful for? :  
-A:
+A: Graphs are used for representing networks of communication, 
+    data organization, computational devices, the flow of computation, they can be used to represent relations of things
 
 Q: What are theyu similar too? :    
 A: similar to an network
@@ -57,7 +58,8 @@ A: a graph which contains no cycle
             |       
             O      
 
-
+Q: what is Adjacency list? :    
+A: an adjacency list is a collection of unordered lists used to represent a finite graph. Each list describes the set of neighbors of a vertex in the graph. This is one of several commonly used representations of graphs for use in computer programs.
    
 
     
