@@ -22,7 +22,7 @@ Q: What is an Undirected Graph? :
 A: unidirected graphs allow for multi-directional travel
 
 Q: What are Weighted Graphs? :     
-A: The below graph is a weighted graph
+A: The below graph is a weighted graph, placed on their edges are numerical vals 
 
 Q: What are unweighted graphs? :   
 A: unweighted graphs are graphs without weights
